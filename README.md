@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex94143
 - 👀 I’m interested in React and Drupal
-- 🌱 I’m currently learning Drupal
+- 🌱 I’m currently learning React & Drupal
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
